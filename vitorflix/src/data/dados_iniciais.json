@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Animes",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -14,32 +14,32 @@
           "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Naruto",
+          "url": "https://www.youtube.com/watch?v=1QlLM12qeUU"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Fullmetal Alchemist",
+          "url": "https://www.youtube.com/watch?v=kKtNiPpJy0A"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Boruto",
+          "url": "https://www.youtube.com/watch?v=7BcZclWDnso"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Boku-no-hero-academia",
+          "url": "https://www.youtube.com/watch?v=ZjUAsMnCB_Y"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "kimetsu no Yaiba",
+          "url": "https://www.youtube.com/watch?v=OhE34h-OSn8"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Tengen Toppa Gurren Lagann",
+          "url": "https://www.youtube.com/watch?v=wIJauoKFxqk"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "shingeki no kyojin",
+          "url": "https://www.youtube.com/watch?v=Wvo2ojcUS6U"
         }        
       ]
     },
